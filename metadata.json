@@ -1,0 +1,6 @@
+{
+  "name": "BrandLens — Brand Analysis Studio",
+  "description": "The Explainable Brand-Governance Platform with JWT Workspace Isolation, PII Redaction, Semantic Vector Retrieval, Guideline AI Ingestion, and Vision OCR & Layout Intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
